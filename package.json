@@ -1,0 +1,14 @@
+{
+  "name": "socket-server",
+  "version": "0.0.1",
+  "description": "socket server for rn test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mrtech",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^2.0.3"
+  }
+}
